@@ -1,2 +1,2 @@
 # Nucleus-Segmentation-using-Deep-Learning
-Implementation of CNN for automatic segmentation of Necleus 
+Implementation of CNN for automatic segmentation of Nucleus 
